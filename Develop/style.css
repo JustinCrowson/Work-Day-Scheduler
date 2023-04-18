@@ -45,6 +45,21 @@ textarea {
   color: white;
 }
 
+.future1 {
+  background-color: #f20aac;
+  color: white;
+}
+
+.future2 {
+  background-color: #fbee07;
+  color: white;
+}
+
+.future3 {
+  background-color: #e90707d0;
+  color: white;
+}
+
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
